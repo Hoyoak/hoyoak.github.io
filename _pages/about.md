@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, Welcome to my page. I'm now a final year undergraduate student of Software Engineering in [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interest focus on leveraging DL for complex time series data, such as pulse data, and computer vision. I am very fortunate to be advised by Prof. Yanfang, Yin of Information Systems Integration Laboratory.
+Hello, Welcome to my page. I'm now a final year undergraduate student of Software Engineering in [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interest focus on leveraging DL for complex time series data, such as pulse data, and computer vision. I am very fortunate to be advised by [Prof. Yanfang, Yin](https://orcid.org/0000-0003-3510-3862) of Information Systems Integration Laboratory.
 
 <a id="Publications"></a>
 ## Publications
