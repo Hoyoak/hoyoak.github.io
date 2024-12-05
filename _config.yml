@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Haoyang Wang"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "B.E. student at SDUST"
   location         : "Qingdao, China"
-  employer         : "Shandong University of Science and Technology"
+  employer         : 
   uri              : # URL
   email            : "wanghaoyang@sdust.edu.cn" 
 
