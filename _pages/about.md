@@ -12,7 +12,8 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 <a id="Publications"></a>
 ## Publications
 ----
-1.	Ma, X., & Wang, H. (2024, June). In Proceedings of the 2024 4th International Conference on Artificial Intelligence, Big Data and Algorithms (pp. 885-889).
+1. **Time Series Modeling of the Relationship between Low Turnover Stocks and SSE Index Based on Neural Network** ICAIBA2024
+Ma, X.*, ** Wang, H.* ** 2024, June. (Page)[https://dl.acm.org/doi/10.1145/3690407.3690554]
 
 2.	Wang, H. (2024, May). Smart Group Attendance System Based on Face Recognition. In 2024 5th International Conference on Electronic Communication and Artificial Intelligence (ICECAI) (pp. 410-413). IEEE.
 
