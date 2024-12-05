@@ -21,7 +21,7 @@ repository               : "Hoyoak/hoyoak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tx.png"
   name             : "Haoyang Wang"
   pronouns         : # example: "she/her"  
   bio              : "B.E. student at SDUST"
