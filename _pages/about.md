@@ -13,9 +13,9 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 ## Publications
 ----
 1. **Time Series Modeling of the Relationship between Low Turnover Stocks and SSE Index Based on Neural Network** ICAIBA2024
-Ma, X.*, ** Wang, H.* ** 2024, June. (Page)[https://dl.acm.org/doi/10.1145/3690407.3690554]
+Ma, X.*, **Wang, H.*** 2024, June. (Page)[https://dl.acm.org/doi/10.1145/3690407.3690554]
 
-2.	Wang, H. (2024, May). Smart Group Attendance System Based on Face Recognition. In 2024 5th International Conference on Electronic Communication and Artificial Intelligence (ICECAI) (pp. 410-413). IEEE.
+2.	**Smart Group Attendance System Based on Face Recognition** IECAI2024 **Wang, H.**  2024, May (Page)[https://ieeexplore.ieee.org/document/10674833]
 
-3.	Yameng Zhang, Mengqi Gao, Haoyang Wang, et al. Study on the Characteristic Sound Wave of Lumbar Disc Herniation by Pulse Sound Wave. In Computer Methods and Programs in Biomedicine. (under review)
+3.	**Study on the Characteristic Sound Wave of Lumbar Disc Herniation by Pulse Sound Wave** Yameng Zhang, Mengqi Gao, **Haoyang Wang**, et al.  Submit to Computer Methods and Programs in Biomedicine(under review)
 
