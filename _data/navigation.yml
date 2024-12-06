@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Talks"
+     url: /talks/   
   - title: "Publications"
     url: "#Publications"
   - title: "Education"
@@ -7,8 +9,7 @@ main:
   - title: "Experience"
     url: "#Experience"
 
-   - title: "Talks"
-     url: /talks/    
+ 
 
 #   - title: "Teaching"
 #     url: /teaching/    
