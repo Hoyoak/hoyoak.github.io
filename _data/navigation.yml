@@ -1,13 +1,15 @@
 # main links links
 main:
-  - title: "Competition"
-    url: /competition/
   - title: "Research"
-    url: /research/
+    url: "#Research"
   - title: "Publications"
     url: "#Publications"
   - title: "Education"
     url: "#Education"
+  - title: "Competition"
+    url: /competition/
+
+
   
 
  
