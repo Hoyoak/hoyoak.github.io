@@ -13,7 +13,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 <a id="Research"></a>
 ## Research
 <div class="project">
-  <img src="../images/pulse_machine.png" alt="Project Image" class="project-image">
+  <img src="../images/MOT.png" alt="Project Image" class="project-image">
   <div class="project-description">
     <div class="project-title">MOT （Current Research)</div>
     <div class="project-description"> 
