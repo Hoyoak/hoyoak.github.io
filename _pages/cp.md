@@ -16,7 +16,7 @@ Since high school, I'm keen to participate in scientific contest. As today, I ma
 Robotics
 -----
 ### Work
-Our tasks are let the quadruped bionic robot has the abilities to patrol lines, recognize and avoid height limit poles, go up stairs, go down stairs and delivery express. We write a recognition algorithm -- which aims to recognize the base line, obstacles and missions -- based on OPENCV and utilized the posture control algorithm to the robot.  
+Our tasks are let the quadruped bionic robot has the abilities to patrol lines, recognize and avoid height limit poles, go up stairs, go down stairs and delivery express. We write a recognition algorithm -- which aims to recognize the base line, obstacles and missions -- based on OPENCV and utilized the posture control algorithm to control the robot.  
 Here is a demo video recorded in 2023 China Robot Competition:  
 ![Demo_Robot](../images/demo_robot-ezgif.com-video-to-gif-converter.gif)
 
