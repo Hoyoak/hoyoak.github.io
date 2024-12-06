@@ -2,12 +2,13 @@
 main:
   - title: "Competition"
     url: /competition/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: "#Publications"
   - title: "Education"
     url: "#Education"
-  - title: "Experience"
-    url: "#Experience"
+  
 
  
 
