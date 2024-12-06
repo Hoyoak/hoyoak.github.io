@@ -17,7 +17,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
   <div class="project-description">
     <div class="project-title">MOT （Current Research)</div>
     <div class="project-description"> 
-      Improve the existing multi-target tracking model and add human skeleton point recognition to the model.
+      Improve the existing Multiple Object Tracking(MOT) models and add human skeleton point recognition to the model.
     </div>
   </div>
 </div>
