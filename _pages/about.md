@@ -15,6 +15,16 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 <div class="project">
   <img src="../images/pulse_machine.png" alt="Project Image" class="project-image">
   <div class="project-description">
+    <div class="project-title">MOT （Current Research)</div>
+    <div class="project-description"> 
+      Improve the existing multi-target tracking model and add human skeleton point recognition to the model.
+    </div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="../images/pulse_machine.png" alt="Project Image" class="project-image">
+  <div class="project-description">
     <div class="project-title">TCN and GRU-Based Lumbar Disc Disease Detection</div>
     <div class="project-description"> 
       Developed an intelligent model for diagnosing lumbar disc disease using deep learning to address noise and complexity inherent in traditional Chinese pulse wave data. Identified TCN+GRU model as optimal, achieving approximately 81% accuracy through 16-fold cross-validation, enhanced the accuracy of traditional Chinese pulse diagnostics in lumbar disc disease detection. Drafted sections of related papers detailing experimental workflows, and data analysis, with one manuscript currently under peer review as a third author in a JCR Q1 journal
