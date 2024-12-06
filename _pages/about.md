@@ -19,9 +19,30 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
     <div class="project-description"> 
       Developed an intelligent model for diagnosing lumbar disc disease using deep learning to address noise and complexity inherent in traditional Chinese pulse wave data. Identified TCN+GRU model as optimal, achieving approximately 81% accuracy through 16-fold cross-validation, enhanced the accuracy of traditional Chinese pulse diagnostics in lumbar disc disease detection. Drafted sections of related papers detailing experimental workflows, and data analysis, with one manuscript currently under peer review as a third author in a JCR Q1 journal
     </div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="../images/demo_robot-ezgif.com-video-to-gif-converter.gif" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Quadruped bionic robot</div>
+    <div class="project-description"> 
+    Our tasks are let the quadruped bionic robot has the abilities to patrol lines, recognize and avoid height limit poles, go up stairs, go down stairs and delivery express. We write a recognition algorithm – which aims to recognize the base line, obstacles and missions – based on OPENCV and utilized the posture control algorithm to control the robot.
+    </div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="../images/stock_analyze.png" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Modeling between Low Turnover Stocks and SSE Index Based on Neural Network</div>
+    <div class="project-description"> 
+      Designed a deep learning model with innovative TCN+CBAM+GRU architecture, integrating three-layer 1D convolution, CBAM attention and GRU units for sequence data in financial analysis.Achieved an exceptional test accuracy of 83.75% in predicting SSE Index trends, with test and training accuracies of 84.96% and 91.35%, respectively.Wrote the manuscript on this project, accepted by the 2024 4th International Conference on Artificial Intelligence, Big Data, and Algorithms (CAIBDA 2024).
+    </div>
     
   </div>
 </div>
+
 
 <a id="Publications"></a>
 ## Publications
