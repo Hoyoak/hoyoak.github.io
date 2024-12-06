@@ -9,56 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Overview
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Since high school, I'm keen to participate in scientific contest. As today, I mainly participate in three types of competition -- Programming Contest, Robotic and Mathematical Modeling.
 
-Work experience
+Programing Contest 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Award**
+1 second Prize, CSP-S 2019(=NOIP2019)
+2 second Prize, NOIP 2020
+3 Second Prize in Province, Blue Bridge Cup 2021
+4 Second Prize in Province, Blue Bridge Cup 2022
+5 Silver Medal, The 2023 ICPC China Shandong Provincial Programming Contest
+6 First Prize in Province, Blue Bridge Cup 2023
+7 Third Prize in National Final, Blue Bridge Cup 2024
+8 Silver Meadl, The 2024-2025 ICPC China Silk Road National Invitational Programming Contest
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
