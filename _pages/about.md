@@ -9,6 +9,20 @@ redirect_from:
 
 Hello, Welcome to my page. I'm now a final year undergraduate student of Software Engineering in [Shandong University of Science and Technology](https://www.sdust.edu.cn/). My research interest focus on leveraging DL for complex time series data, such as pulse data, and computer vision. I am very fortunate to be advised by [Prof. Yanfang, Yin](https://orcid.org/0000-0003-3510-3862) of Information Systems Integration Laboratory.
 
+
+<a id="Research"></a>
+## Research
+<div class="project">
+  <img src="../images/pulse_machine.png" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">TCN and GRU-Based Lumbar Disc Disease Detection</div>
+    <div class="project_line1"> Developed an intelligent model for diagnosing lumbar disc disease using deep learning to address noise and complexity inherent in traditional Chinese pulse wave data.</div>
+    <div class="project_line2"> Collected and preprocessed data from 50 lumbar disc disease patients and 50 healthy volunteers, and tested multiple deep learning models (TCN, GRU, TCN+GRU) with systematic parameter tuning.</div>
+    <div class="project_line3"> Identified TCN+GRU model as optimal, achieving approximately 81% accuracy through 16-fold cross-validation, enhanced the accuracy of traditional Chinese pulse diagnostics in lumbar disc disease detection.</div>
+    <div class="project_line4"> 	Drafted sections of related papers detailing experimental workflows, and data analysis, with one manuscript currently under peer review as a third author in a JCR Q1 journal</div>
+  </div>
+</div>
+
 <a id="Publications"></a>
 ## Publications
 ----
