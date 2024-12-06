@@ -22,9 +22,9 @@ Here is a demo video recorded in 2023 China Robot Competition:
 
 
 ### Selected Awards
-1 National Third Prize, 2023 China Robot Competition and RoboCup World Cup: Quadruped Bionic Robot - Express Delivery Event, Medium Size Group.  
-2 Second Prize, 2022 Shandong Regional Competition for China Robotics and Artificial Intelligence: Quadruped Bionic Robot, Medium Size Group.  
-3 Third Prize (3rd Place Province-wide), 2022 Shandong Provincial University Robot Competition: Quadruped Bionic Robot, Medium Size Group.  
+1. National Third Prize, 2023 China Robot Competition and RoboCup World Cup: Quadruped Bionic Robot - Express Delivery Event, Medium Size Group.  
+2. Second Prize, 2022 Shandong Regional Competition for China Robotics and Artificial Intelligence: Quadruped Bionic Robot, Medium Size Group.  
+3. Third Prize (3rd Place Province-wide), 2022 Shandong Provincial University Robot Competition: Quadruped Bionic Robot, Medium Size Group.  
 
 Programing Contest 
 -----
@@ -41,8 +41,8 @@ Programing Contest
 Mathematical Modeling
 -----
 ### Selected Awards
-1 Provincial-level Second Prize, National College Student Mathematical Modeling Competition, 2023.  
-2 National Third Prize, 2021 Asia and Pacific Mathematical Contest in Modeling, 02/2022.  
-3 Provincial-level Third Prize, National College Student Mathematical Modeling Competition, 11/2022.  
-4 Third Prize, 2022 MathorCup University Mathematical Modeling Challenge.  
+1. Provincial-level Second Prize, National College Student Mathematical Modeling Competition, 2023.  
+2. National Third Prize, 2021 Asia and Pacific Mathematical Contest in Modeling, 02/2022.  
+3. Provincial-level Third Prize, National College Student Mathematical Modeling Competition, 11/2022.  
+4. Third Prize, 2022 MathorCup University Mathematical Modeling Challenge.  
 
