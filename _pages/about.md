@@ -19,3 +19,9 @@ Ma, X.*, **Wang, H.*** 2024, June. [Page](https://dl.acm.org/doi/10.1145/3690407
 
 3.	**Study on the Characteristic Sound Wave of Lumbar Disc Herniation by Pulse Sound Wave** Yameng Zhang, Mengqi Gao, **Haoyang Wang**, et al.  Submit to Computer Methods and Programs in Biomedicine(under review)
 
+<a id="Education"></a>
+## Educations
+----
+B.E. in Software Engineering, Shandong University of Science and Technology, 2021.09 - Present  
+High School, Qingdao No.2 Middle School, 2018.9 - 2021.6
+
