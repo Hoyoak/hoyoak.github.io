@@ -29,8 +29,8 @@ Here is a demo video recorded in 2023 China Robot Competition:
 Programing Contest 
 -----
 ### Selected Awards  
-1. second Prize, CSP-S 2019 (=NOIP2019)  
-2. second Prize, NOIP 2020  
+1. Second Prize, CSP-S 2019 (=NOIP2019)  
+2. Second Prize, NOIP 2020  
 3. Second Prize in Province, Blue Bridge Cup 2021  
 4. Second Prize in Province, Blue Bridge Cup 2022  
 5. Silver Medal, The 2023 ICPC China Shandong Provincial Programming Contest  
