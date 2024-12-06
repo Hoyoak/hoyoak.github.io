@@ -8,6 +8,8 @@ main:
     url: "#Education"
   - title: "Competition"
     url: /competition/
+  - title: "Photography"
+    url: /photography/
 
 
   
