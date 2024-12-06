@@ -6,8 +6,8 @@ main:
     url: "#Education"
   - title: "Experience"
     url: "#Experience"
-#   - title: "Publications"
-#     url: /publications/
+  - title: "Competition"
+     url: /Conpetation/mian.xml
 
 #   - title: "Talks"
 #     url: /talks/    
