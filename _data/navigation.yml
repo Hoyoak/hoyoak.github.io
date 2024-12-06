@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Competition"
-    url: /teaching/
+    url: _Competition/main.xml
   - title: "Publications"
     url: "#Publications"
   - title: "Education"
