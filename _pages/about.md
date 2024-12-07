@@ -13,7 +13,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 <a id="Research"></a>
 ## Research
 <div class="project">
-  <img src="../images/MOT.png" alt="Project Image" class="project-image">
+  <img src="../images/MOT.png" alt="Project Image" class="project-image" height="150" width="220">
   <div class="project-description">
     <div class="project-title">MOT （Current Research)</div>
     <div class="project-description"> 
@@ -23,7 +23,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 </div>
 
 <div class="project">
-  <img src="../images/pulse_machine.png" alt="Project Image" class="project-image">
+  <img src="../images/pulse_machine.png" alt="Project Image" class="project-image" height="150" width="220">
   <div class="project-description">
     <div class="project-title">TCN and GRU-Based Lumbar Disc Disease Detection</div>
     <div class="project-description"> 
@@ -33,7 +33,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 </div>
 
 <div class="project">
-  <img src="../images/demo_robot-ezgif.com-video-to-gif-converter.gif" alt="Project Image" class="project-image">
+  <img src="../images/demo_robot-ezgif.com-video-to-gif-converter.gif" alt="Project Image" class="project-image" height="150" width="220">
   <div class="project-description">
     <div class="project-title">Quadruped bionic robot</div>
     <div class="project-description"> 
@@ -43,7 +43,7 @@ Hello, Welcome to my page. I'm now a final year undergraduate student of Softwar
 </div>
 
 <div class="project">
-  <img src="../images/stock_analyze.png" alt="Project Image" class="project-image">
+  <img src="../images/stock_analyze.png" alt="Project Image" class="project-image" height="150" width="220">
   <div class="project-description">
     <div class="project-title">Modeling between Low Turnover Stocks and SSE Index Based on Neural Network</div>
     <div class="project-description"> 
